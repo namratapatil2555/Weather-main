@@ -1,2 +1,2 @@
-# Weather-main
-A responsive web application that provides real-time weather updates for any city using the OpenWeatherMap API. Built using HTML, CSS, and JavaScript (or React). Displays temperature, humidity, wind speed, weather condition icons, and more. Includes search functionality and error handling for invalid city names.
+![image](https://github.com/HoanghoDev/weather/assets/110652388/5268c6a8-87b2-4e32-9af9-d558b57b510d)
+![image](https://github.com/HoanghoDev/weather/assets/110652388/396675f5-c1af-4afe-9870-42f3be475cc5)
